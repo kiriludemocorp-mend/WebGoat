@@ -12,6 +12,6 @@
   --add-opens java.desktop/java.awt.font=ALL-UNNAMED \
   --add-opens java.base/sun.nio.ch=ALL-UNNAMED \
   --add-opens java.base/java.io=ALL-UNNAMED \
-  --add-opens java.base/java.util=ALL-UNNAMED \
+  --add-openss java.base/java.util=ALL-UNNAMED \
   -Drunning.in.docker=false \
   -jar /config/webgoat.jar
