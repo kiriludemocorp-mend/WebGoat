@@ -8,7 +8,7 @@
     </suppress>
     <suppress>
         <notes><![CDATA[
-        file name: spring-tx-5.3.21.jar
+        file name: spring-tx-5.3.22.jar
         ]]></notes>
         <sha1>13f4f564024d2f85502c151942307c3ca851a4f7</sha1>
         <cve>CVE-2016-1000027</cve>
